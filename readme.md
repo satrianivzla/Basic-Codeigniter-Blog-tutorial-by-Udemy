@@ -49,9 +49,9 @@ This is my source code training references from Udemy Course by <b><a href="http
 	I added some constants to the file <b>application/config/constants.php</b> to manage the database conection settings
 	<li><b>Navbar</b>:</li>
 	I updated the navbar because originally the link <b>Add Post</b> was showed when you are noy logged and of course, you can ended trying to add a new post without been a registered user of this web application. 
-	<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+	 
 	Building a basic web application, I don't understand how this kind of imoortant security issues were not thinked and more where <a href="https://www.udemy.com/user/frankjohn/" target="_blank"><b>Frank John</b></a> as instructor should try to made a good plan of the this kind of courses.
-	</div> 
+	 
 	
 	Then the Blog controller could be updated to validate that there is a registered user logged in the system before allow to add a new post or any other admin action.
 	<li><b>Footer</b>:</li>
