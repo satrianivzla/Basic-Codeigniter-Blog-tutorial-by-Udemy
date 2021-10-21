@@ -1,7 +1,7 @@
 <p align="center">
 	<h2>Simple Content Management System (CMS) Blog Using Codeigniter with Hierarchical Model View Controller (HMVC) Architectural</h2>
 </p>
-![Simple DataTables using Bootstrap 4](https://github.com/satrianivzla/datatables/blob/main/screen.png)
+![Simple Content Management System (CMS) Blog Using Codeigniter with Hierarchical Model View Controller (HMVC) Architectural](https://github.com/satrianivzla/Basic-Codeigniter-Blog-tutorial-by-Udemy/blob/main/screen.png)
 This is my source code training references from Udemy Course by <b><a href="https://www.udemy.com/learn-codeigniter-by-building-project/" target="_blank">Frank John</a></b> about build simple Content Management System (CMS) Blog using Codeigniter v.3.x with Hierarchical Model View Controller (HMVC) Architecture.
 
 <p align="center">
