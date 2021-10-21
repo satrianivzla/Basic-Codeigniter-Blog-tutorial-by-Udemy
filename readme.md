@@ -64,6 +64,12 @@ This is my source code training references from Udemy Course by <b><a href="http
 <p> Be carefull with the explanations of this course. In a building process of a quite simple and basic web application like this one, I don't understand how this kind of important security issues were not thinked and more when <a href="https://www.udemy.com/user/frankjohn/" target="_blank"><b>Frank John</b></a> as instructor with almost 10 years of experience of webprogramming, should try to made a good plan of the comtent for this kind of courses, not mmatter that should be taken by beginners of this tecnology, because at the end we are teaching bad practices and behaviours.
 </p>	 
 
+<ul>
+	<li><b>There is no query string validation</b>:</li>
+	If you go to the Authors page link and erase the number asigned to each author and erase it, you should have a 404 page not found error that sadly was not managed by the application.
+	
+</ul>
+	
 <p align="center">
 	<h2>References</h2>
 </p>
