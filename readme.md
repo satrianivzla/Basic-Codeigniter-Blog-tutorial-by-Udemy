@@ -9,7 +9,7 @@ This is my source code training references from Udemy Course by <b><a href="http
 </p>
 
 <ul>
-	<li>Firefo</li>
+	<li>Firefox</li>
 	<li>Xampp</li>
 	<li>HeidiSQL</li>
 	<li>Visual Studio Code</li>
