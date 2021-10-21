@@ -52,6 +52,8 @@ This is my source code training references from Udemy Course by <b><a href="http
 	Then the Blog controller could be updated to validate that there is a registered user logged in the system before allow to add a new post or any other admin action.
 	<li><b>Footer</b>:</li>
 	Seeeing the simple footer I just add a couple of link to the Udemy catalog of Codeigniter's courses.
+	<li><b>Categories</b>:</li>
+	Look like there is no page related to the process of the sidebar that should allow to visitors to get all articles ordered by categories
 </ul>
 <p align="center">
 	<h2>Security issues</h2>
