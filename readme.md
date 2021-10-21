@@ -67,8 +67,8 @@ This is my source code training references from Udemy Course by <b><a href="http
 <ul>
 	<li><b>There is no query string validation</b>:</li>
 	If you go to the View Post link (<b>your_url/view_post</b>), Authors page link (<b>your_url/view_author_profile</b>) or Author Post page (<b>you_url/view_authors_posts/</b>) and erase the number asigned to each author and erase it, you should have a 404 page not found error that sadly was not managed by the application. This security issues are pretty basic to be covered as part of a Frontend explanation. 
-	<br />
-	Besides, if you are dealin with a good PHP framework like Codeigniter, that is named as an easy way to learn about MVC, you might use it!. The pretty URL must be a tool to learn for any beginner user, then I recommeded that go and read the <a href="https://codeigniter.com/userguide3/general/urls.html" target="_blank">URL Helper page</a> of the Codeignuter documentatiom. 
+	<br />&nbsp;<br />
+	Besides, if you are dealing with a good PHP framework like Codeigniter, that is named as an easy way to learn about MVC, you might use it!. The pretty URL must be a tool to learn for any beginner user, then I recommeded that go and read the <a href="https://codeigniter.com/userguide3/general/urls.html" target="_blank">URL Helper page</a> of the Codeignuter documentatiom. 
 	
 </ul>
 	
