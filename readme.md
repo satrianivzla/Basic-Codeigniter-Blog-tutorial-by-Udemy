@@ -26,8 +26,9 @@ This is my source code training references from Udemy Course by <b><a href="http
 <ul>
 	<li>Migration</li>
 	<li>Extending Core Model</li>
+	<li>Templeate</li>	
 	<li>Hierarchical Model View Controller (HMVC)</li>
-	<li>Create Read Update Delete</li>
+	<li>Basic CRUD (Create Read Update Delete)</li>
 	<li>Form Validation</li>
 	<li>Authentication</li>
 </ul>
