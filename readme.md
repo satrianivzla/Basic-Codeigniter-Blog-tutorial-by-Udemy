@@ -66,7 +66,7 @@ This is my source code training references from Udemy Course by <b><a href="http
 
 <ul>
 	<li><b>There is no query string validation</b>:</li>
-	If you go to the Authors page link (<b>your_url/view_author_profile</b>) or Author Post page (<b>you_url/view_authors_posts/</b>) and erase the number asigned to each author and erase it, you should have a 404 page not found error that sadly was not managed by the application.
+	If you go to the View Post link (<b>your_url/view_post</b>), Authors page link (<b>your_url/view_author_profile</b>) or Author Post page (<b>you_url/view_authors_posts/</b>) and erase the number asigned to each author and erase it, you should have a 404 page not found error that sadly was not managed by the application. This security issues are pretty basic to be covered as part of a Frontend explanation. 
 	
 </ul>
 	
