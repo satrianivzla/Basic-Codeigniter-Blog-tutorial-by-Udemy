@@ -58,7 +58,7 @@ This is my source code training references from Udemy Course by <a href="https:/
 </p>
 
 <ul>
-	<li>https://www.udemy.com/learn-codeigniter-by-building-project/</li>
+	<li><a href="https://www.udemy.com/learn-codeigniter-by-building-project/" target="_blank">Codeigniter Tutorial by Frank John</a></li>
 </ul>
 
 
