@@ -71,5 +71,5 @@ This is my source code training references from Udemy Course by <b><a href="http
 <p align="center">
 	<h2>Last updated</h2>
 </p>
-Original tutorial was launched back August, 2019
+Original tutorial was launched back August, 2019 <br />
 October 21, 2021 
