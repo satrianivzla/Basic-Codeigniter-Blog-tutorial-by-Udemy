@@ -2,14 +2,14 @@
 	<h2>Simple Content Management System (CMS) Blog Using Codeigniter with Hierarchical Model View Controller (HMVC) Architectural</h2>
 </p>
 
-This is my source code training references from Udemy Course by <a href="https://www.udemy.com/learn-codeigniter-by-building-project/">Frank John</a> about build simple Content Management System (CMS) Blog using Codeigniter v.3.x with Hierarchical Model View Controller (HMVC) Architecture.
+This is my source code training references from Udemy Course by <b><a href="https://www.udemy.com/learn-codeigniter-by-building-project/" target="_blank">Frank John</a></b> about build simple Content Management System (CMS) Blog using Codeigniter v.3.x with Hierarchical Model View Controller (HMVC) Architecture.
 
 <p align="center">
 	<h2>Tools Used</h2>
 </p>
 
 <ul>
-	<li>Chrome</li>
+	<li>Firefo</li>
 	<li>Xampp</li>
 	<li>HeidiSQL</li>
 	<li>Visual Studio Code</li>
@@ -36,7 +36,7 @@ This is my source code training references from Udemy Course by <a href="https:/
 
 <ul>
 	<li>Bootstrap</li>
-	<li>Jquery</li>
+	<li>jQuery</li>
 </ul>
 
 
@@ -45,11 +45,16 @@ This is my source code training references from Udemy Course by <a href="https:/
 </p>
 
 <ul>
-	<li>Constants:</li>
+	<li><b>Constants</b>:</li>
 	I added some constants to the file <b>application/config/constants.php</b> to manage the database conection settings
-	<li>Navbar:</li>
-	I updated the navbar because originally the link <b>Add Post</b> was showed when you are noy logged and of course you can add a new post without been a registered user of this web application. Then the Blog controller could be updated to validate that there is a registered user logged in the system before allow to add a new post or any other admin action.
-	<li>Footer:</li>
+	<li><b>Navbar</b>:</li>
+	I updated the navbar because originally the link <b>Add Post</b> was showed when you are noy logged and of course, you can ended trying to add a new post without been a registered user of this web application. 
+	<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+	Building a basic web application, I don't understand how this kind of imoortant security issues were not thinked and more where <a href="https://www.udemy.com/user/frankjohn/" target="_blank"><b>Frank John</b></a> as instructor should try to made a good plan of the this kind of courses.
+	</div> 
+	
+	Then the Blog controller could be updated to validate that there is a registered user logged in the system before allow to add a new post or any other admin action.
+	<li><b>Footer</b>:</li>
 	Seeeing the simple footer I just add a couple of link to the Udemy catalog of Codeigniter's courses.
 </ul>
 
@@ -65,4 +70,5 @@ This is my source code training references from Udemy Course by <a href="https:/
 <p align="center">
 	<h2>Last updated</h2>
 </p>
+Original tutorial was launched back August, 2019
 October 21, 2021 
