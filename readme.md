@@ -53,9 +53,10 @@ This is my source code training references from Udemy Course by <b><a href="http
 	<li><b>Footer</b>:</li>
 	Seeeing the simple footer I just add a couple of link to the Udemy catalog of Codeigniter's courses.
 </ul>
-
-<p tyle="background-color: #cfc ; padding: 10px; border: 1px solid green;" align="center">
-	Building a basic web application, I don't understand how this kind of imoortant security issues were not thinked and more where <a href="https://www.udemy.com/user/frankjohn/" target="_blank"><b>Frank John</b></a> as instructor should try to made a good plan of the this kind of courses.
+<p align="center">
+	<h2>Security issues</h2>
+</p>
+<p> Be carefull with the explanations of this course. In a building process of a quite simple and basic web application like this one, I don't understand how this kind of imoortant security issues were not thinked and more where <a href="https://www.udemy.com/user/frankjohn/" target="_blank"><b>Frank John</b></a> as instructor should try to made a good plan of the comtent for this kind of courses not mmatter that should be taken by beginners.
 </p>	 
 
 <p align="center">
