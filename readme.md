@@ -39,6 +39,17 @@ This is my source code training references from Udemy Course by <a href="https:/
 	<li>Jquery</li>
 </ul>
 
+
+<p align="center">
+	<h2>Updates</h2>
+</p>
+
+<ul>
+	<li>Constant:</li>
+	<li>Navbar:</li>
+	<li>Footer:</li>
+</ul>
+
 <p align="center">
 	<h2>References</h2>
 </p>
